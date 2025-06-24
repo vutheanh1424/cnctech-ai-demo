@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+fpdf
+cryptography
+paho-mqtt
+openpyxl
